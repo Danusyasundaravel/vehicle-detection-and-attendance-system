@@ -19,7 +19,6 @@ The primary objectives include:
 - `number_plate_results.csv`: Sample results of number plate detection.
 - `vehicle_detection.h5`: Model file used for vehicle detection.
 - `vehicle_detection.ipynb`: Jupyter Notebook for training and testing the vehicle detection system.
-- `README.md`: Documentation for the repository.
 
 
 ## How It Works
